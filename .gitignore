@@ -1,2 +1,5 @@
 *.class
 *.log
+ScalaAlgos/.*
+ScalaAlgos/project
+ScalaAlgos/target
